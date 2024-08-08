@@ -20,7 +20,7 @@ public class CalculateServiceTest {
     }
 
     @Test
-    void restForFiveMonths() {
+    void restForTwoMonths() {
         CalculateService service = new CalculateService();
 
         int income = 100_000;
